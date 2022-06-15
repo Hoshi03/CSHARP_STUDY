@@ -2,7 +2,7 @@
 
 namespace OOP
 {
-    class Program
+    class OOP
     {
         static void Main(string[] args)
         {

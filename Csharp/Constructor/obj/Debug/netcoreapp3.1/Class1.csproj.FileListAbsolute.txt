@@ -1,0 +1,4 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\OOP\obj\Debug\netcoreapp3.1\Class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\OOP\obj\Debug\netcoreapp3.1\Class1.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\OOP\obj\Debug\netcoreapp3.1\Class1.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\OOP\obj\Debug\netcoreapp3.1\Class1.csproj.CoreCompileInputs.cache

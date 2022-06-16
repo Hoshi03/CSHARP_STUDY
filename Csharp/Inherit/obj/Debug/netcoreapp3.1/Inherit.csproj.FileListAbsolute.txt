@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\bin\Debug\netcoreapp3.1\Inherit.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\bin\Debug\netcoreapp3.1\Inherit.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\bin\Debug\netcoreapp3.1\Inherit.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\bin\Debug\netcoreapp3.1\Inherit.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\bin\Debug\netcoreapp3.1\Inherit.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\bin\Debug\netcoreapp3.1\Inherit.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Inherit\obj\Debug\netcoreapp3.1\Inherit.genruntimeconfig.cache

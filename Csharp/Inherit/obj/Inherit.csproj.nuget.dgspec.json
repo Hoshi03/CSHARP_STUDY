@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Inherit.csproj": {}
+    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Inherit\\Inherit.csproj": {}
   },
   "projects": {
-    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Inherit.csproj": {
+    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Inherit\\Inherit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Inherit.csproj",
+        "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Inherit\\Inherit.csproj",
         "projectName": "Inherit",
-        "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Inherit.csproj",
+        "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Inherit\\Inherit.csproj",
         "packagesPath": "C:\\Users\\LeeChanho\\.nuget\\packages\\",
-        "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\obj\\",
+        "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Inherit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LeeChanho\\AppData\\Roaming\\NuGet\\NuGet.Config",

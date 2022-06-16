@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\bin\Debug\netcoreapp3.1\Cons.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\bin\Debug\netcoreapp3.1\Cons.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\bin\Debug\netcoreapp3.1\Cons.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\bin\Debug\netcoreapp3.1\Cons.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\bin\Debug\netcoreapp3.1\Cons.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\bin\Debug\netcoreapp3.1\Cons.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Constructor\obj\Debug\netcoreapp3.1\Cons.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\bin\Debug\netcoreapp3.1\TextRpgOOP.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\bin\Debug\netcoreapp3.1\TextRpgOOP.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\bin\Debug\netcoreapp3.1\TextRpgOOP.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\bin\Debug\netcoreapp3.1\TextRpgOOP.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\bin\Debug\netcoreapp3.1\TextRpgOOP.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\bin\Debug\netcoreapp3.1\TextRpgOOP.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\TextRpgOOP\obj\Debug\netcoreapp3.1\TextRpgOOP.genruntimeconfig.cache

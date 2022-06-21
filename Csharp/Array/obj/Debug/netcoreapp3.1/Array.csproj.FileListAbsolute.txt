@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache

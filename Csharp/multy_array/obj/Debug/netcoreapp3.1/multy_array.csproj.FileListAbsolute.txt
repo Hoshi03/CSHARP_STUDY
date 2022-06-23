@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\bin\Debug\netcoreapp3.1\multy_array.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\bin\Debug\netcoreapp3.1\multy_array.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\bin\Debug\netcoreapp3.1\multy_array.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\bin\Debug\netcoreapp3.1\multy_array.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\bin\Debug\netcoreapp3.1\multy_array.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\bin\Debug\netcoreapp3.1\multy_array.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\multy_array\obj\Debug\netcoreapp3.1\multy_array.genruntimeconfig.cache

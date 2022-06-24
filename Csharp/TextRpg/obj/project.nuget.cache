@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S20SaYWQGE3aXMQWmr4anCBYe5RVHspSIA40vilrDPi2XxAmv6zczEvYIGN59FeOKSVenxXbqLQKNGBaaYydIw==",
+  "dgSpecHash": "7p7jjjQJjsx2/yq3Cs/SEvMuPqo4dwE1aI3smJcsBbKFm5e+0ptb6Mc5Ftsl4ohSGKhqCkj+5TIcewCV440hlg==",
   "success": true,
-  "projectFilePath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Csharp\\TextRpg.csproj",
+  "projectFilePath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\TextRpg\\TextRpg.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

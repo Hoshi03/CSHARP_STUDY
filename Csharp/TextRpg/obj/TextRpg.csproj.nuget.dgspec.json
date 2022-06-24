@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Csharp\\TextRpg.csproj": {}
+    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\TextRpg\\TextRpg.csproj": {}
   },
   "projects": {
-    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Csharp\\TextRpg.csproj": {
+    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\TextRpg\\TextRpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Csharp\\TextRpg.csproj",
+        "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\TextRpg\\TextRpg.csproj",
         "projectName": "TextRpg",
-        "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Csharp\\TextRpg.csproj",
+        "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\TextRpg\\TextRpg.csproj",
         "packagesPath": "C:\\Users\\LeeChanho\\.nuget\\packages\\",
-        "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Csharp\\obj\\",
+        "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\TextRpg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LeeChanho\\AppData\\Roaming\\NuGet\\NuGet.Config",

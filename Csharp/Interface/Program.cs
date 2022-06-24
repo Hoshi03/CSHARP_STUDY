@@ -4,6 +4,7 @@ namespace Interface
 {
     class Program
     {
+        //추상 클래스, 추상 클래스 + 다른 클래스 사용은 불가능
         abstract class Monster
         {
             public abstract void Shout();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\Constructor.csproj": {}
+    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Constructor.csproj": {}
   },
   "projects": {
-    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\Constructor.csproj": {
+    "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\Constructor.csproj",
+        "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Constructor.csproj",
         "projectName": "Constructor",
-        "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\Constructor.csproj",
+        "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Constructor.csproj",
         "packagesPath": "C:\\Users\\LeeChanho\\.nuget\\packages\\",
-        "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\obj\\",
+        "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LeeChanho\\AppData\\Roaming\\NuGet\\NuGet.Config",

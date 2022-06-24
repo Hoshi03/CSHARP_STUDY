@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\constructor.csproj",
-      "projectName": "constructor",
-      "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\constructor.csproj",
+      "projectUniqueName": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Constructor.csproj",
+      "projectName": "Constructor",
+      "projectPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\Constructor.csproj",
       "packagesPath": "C:\\Users\\LeeChanho\\.nuget\\packages\\",
-      "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\OOP\\obj\\",
+      "outputPath": "C:\\Hoshi03\\CSHARP_STUDY\\Csharp\\Constructor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LeeChanho\\AppData\\Roaming\\NuGet\\NuGet.Config",

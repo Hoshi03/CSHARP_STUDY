@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\bin\Debug\netcoreapp3.1\Lamda.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\bin\Debug\netcoreapp3.1\Lamda.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\bin\Debug\netcoreapp3.1\Lamda.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\bin\Debug\netcoreapp3.1\Lamda.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Lamda\obj\Debug\netcoreapp3.1\Lamda.genruntimeconfig.cache

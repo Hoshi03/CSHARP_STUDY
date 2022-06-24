@@ -1,0 +1,14 @@
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.csproj.AssemblyReference.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.pdb
+C:\Hoshi03\CSHARP_STUDY\Csharp\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache
